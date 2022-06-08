@@ -11,4 +11,17 @@
 
 body {
   font-size: 1.6rem;
+
+  background-color: black;
+  color: white;
+  text-align: center;
+  font-family: sans-serif;
+}
+
+.container {
+  margin-top: 10rem;
+  margin-inline: auto;
+
+  width: 80%;
+  max-width: 40rem;
 }
